@@ -1,0 +1,8 @@
+primary:
+  css:
+    theme:
+      css/main.css: {}
+
+  js:
+    js/hello.js: {}
+
