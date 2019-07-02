@@ -1,6 +1,6 @@
 name: guy
 type: theme
-description: 'My theme!!!!!!' 
+description: 'Just a basic theme' 
 core: 8.x
 libraries:
   - guy/primary
