@@ -1,5 +1,27 @@
 body {
-    background: #eee;
+    background: #fff;
+    padding: 1em;
+    max-width: 700px;
+    margin: 0 auto;
+    font-family: "Helvetica Neue";
+}
+#block-guy-branding {
+    border: 2px solid;
+    padding: 1em;
+    text-align: center;
+}
+#block-guy-branding a {
+    display: block;
+    font-size: 2em;
+}
+#block-guy-branding img {
+    max-width: 100%;
+    height: auto;
 }
 
-
+.views-row {
+    border: 1px solid;
+    padding: 1em;
+    margin-bottom: 5em;
+}
+    
